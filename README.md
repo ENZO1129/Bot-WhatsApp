@@ -1,5 +1,5 @@
 
-<h2 align="center">
+<h2 align="center"
   <img src="https://img.icons8.com/dusk/128/000000/whatsapp.png"/>
   <img src="https://img.icons8.com/dusk/128/000000/bot.png"/>
   <br/>
